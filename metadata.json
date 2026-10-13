@@ -1,0 +1,6 @@
+{
+  "name": "Just Say No to the Jackpot!",
+  "description": "A satirical 1990s Christian educational CD-ROM adventure about Good Ol' Johnny, sports betting megacorporations, and the perils of personal finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
